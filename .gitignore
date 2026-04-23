@@ -1,0 +1,6 @@
+api/.env
+.env
+.vscode/
+.vs/
+bin/
+obj/
